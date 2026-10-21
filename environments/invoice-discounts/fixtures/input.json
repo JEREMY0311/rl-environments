@@ -1,0 +1,10 @@
+{
+  "invoice": "F001-00042",
+  "currency": "PEN",
+  "lines": [
+    {"id": "L-01", "precio": "100.00", "dto": 10},
+    {"id": "L-02", "precio": "1.00", "dto": 50},
+    {"id": "L-03", "precio": "10.00", "dto": 33},
+    {"id": "L-04", "precio": "250.00", "dto": 20}
+  ]
+}
